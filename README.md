@@ -9,6 +9,6 @@ List of Packages and their descriptions:
 3. tidyverse to Use tibble for grouping and perform single operation on multiple groups
 4. tidyquant for Time Series and Financial functions to perform the analysis
 5. gglot for Plotting and Visualization
-6. gganimate to plot the monthly prices. To get more information on gganimate, please read my previous post on Analytics Vidhya
+6. gganimate to plot the monthly prices
 7. forcats for modification of factor levels
 8. stringr for string use
