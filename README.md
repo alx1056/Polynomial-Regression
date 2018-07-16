@@ -1,14 +1,5 @@
-# Stock-Analysis-in-R
-Creates an analysis of stock prices using the R programming language
+Will create a polynomial regression model based off of the data set "position_salaries"
 
-This tutorial is refernced from: https://www.analyticsvidhya.com/blog/2017/09/comparative-stock-analysis/
+This will test if someones can be determined solely from their position within a psuedo-company and their title/rank. 
 
-List of Packages and their descriptions: 
-1. Quandl for Data Download
-2. timetk to coerce the dataframe into xts
-3. tidyverse to Use tibble for grouping and perform single operation on multiple groups
-4. tidyquant for Time Series and Financial functions to perform the analysis
-5. gglot for Plotting and Visualization
-6. gganimate to plot the monthly prices
-7. forcats for modification of factor levels
-8. stringr for string use
+We are given 10 titles ranging from business analyst (1) to CEO (10), we will see if polynomial regression can take in more data and determine what their position would be. 
